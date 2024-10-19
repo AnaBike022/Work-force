@@ -1,2 +1,7 @@
 # Work-force
-This project explored how some demographic features like educational level, age, occupation and race influences the income levels of individuals.
+This project explored how demographic features such as educational level, age, occupation, and race influence individuals' income levels.
+The project highly
+
+
+
+plt.savefig("mypic.png") 
